@@ -1,0 +1,1 @@
+# Projeto simples de automação Whatsapp utilizando Python e Selenium
